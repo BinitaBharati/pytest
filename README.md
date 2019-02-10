@@ -7,7 +7,7 @@ Run build.sh script, which will generate a `build.tar` file.
 ## Pre-requisites
 Target VM should have docker and docker-compose pre-installed.Copy the generated `build.tar` to the target VM, and run the below steps:
 1. `tar xvf buid.tar`
-2. `cd installation`
+2. `cd installation/dockercompose`
 3. `docker-compose up` - This will start a docker container with Python3 and also it would have copied all the required src files into the running container
 
 # Verify
