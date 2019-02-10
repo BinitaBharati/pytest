@@ -1,7 +1,7 @@
 # pytest
 
 # Build
-Run build.sh script, which will generate a tar file.
+Run build.sh script, which will generate a `build.tar` file.
 
 # Installation
 ## Pre-requisites
